@@ -1,0 +1,6 @@
+---
+owner-repo: cruft/cruft
+desc:   Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter. 
+---
+
+# cruft
