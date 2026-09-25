@@ -37,22 +37,22 @@ Total: **2,383** lines of code across **31** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,587 · **Forks**: 100 · **Open issues**: 194 · **Contributors**: 44
+- **Stars**: 1,587 · **Forks**: 101 · **Open issues**: 194 · **Contributors**: 44
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 87 · **Open PRs**: 16 · **Closed issues**: 116 · **Open issues**: 78 · **Commits**: 218
+- **Releases**: 22 · **Merged PRs**: 87 · **Open PRs**: 17 · **Closed issues**: 116 · **Open issues**: 78 · **Commits**: 218
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-26 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last180d | 2026-03-28 | 0 | 0 | 3 | 0 | 3 | 0 |
-| 360d | 2025-09-29 | 0 | 0 | 3 | 0 | 4 | 0 |
-| last720d | 2024-10-04 | 3 | 6 | 9 | 2 | 13 | 16 |
+| 30d | 2026-08-26 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-27 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-27 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last180d | 2026-03-29 | 0 | 0 | 4 | 0 | 3 | 0 |
+| 360d | 2025-09-30 | 0 | 0 | 4 | 0 | 4 | 0 |
+| last720d | 2024-10-05 | 3 | 6 | 10 | 2 | 13 | 16 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for cruft lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:28:49Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:40:20Z._
