@@ -1,3 +1,17 @@
+- repo: raspbian_testing
+  subrepo: main
+  srcname: cruft
+  binnames:
+    - cruft
+    - cruft-common
+  visiblename: cruft
+  version: 0.9.43
+  origversion: null
+  status: outdated
+  maintainers:
+    - alexandre.detiste@gmail.com
+  categories:
+    - admin
 - repo: aur
   srcname: cruft
   binname: cruft
@@ -24,18 +38,6 @@
     - alexandre.detiste@gmail.com
   categories:
     - admin
-- repo: deepin_unstable
-  subrepo: main
-  srcname: cruft
-  binnames:
-    - cruft
-    - cruft-common
-  visiblename: cruft
-  version: 0.9.38
-  origversion: null
-  status: outdated
-  maintainers:
-    - alexandre.detiste@gmail.com
 - repo: devuan_4_0
   subrepo: chimaera/main
   srcname: cruft
@@ -165,20 +167,6 @@
   categories:
     - admin
 - repo: raspbian_stable
-  subrepo: main
-  srcname: cruft
-  binnames:
-    - cruft
-    - cruft-common
-  visiblename: cruft
-  version: 0.9.43
-  origversion: null
-  status: outdated
-  maintainers:
-    - alexandre.detiste@gmail.com
-  categories:
-    - admin
-- repo: raspbian_testing
   subrepo: main
   srcname: cruft
   binnames:
